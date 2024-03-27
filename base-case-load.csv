@@ -1,0 +1,9 @@
+﻿Tables_Table41DERParamet_2a4b8 Bus No.__1,Tables_Table41DERParamet_2a4b8 Туре__2,Tables_Table41DERParamet_2a4b8 PL (kW)__3,Tables_Table41DERParamet_2a4b8 QL (kVAR)__4,Tables_Table41DERParamet_2a4b8 Microgrid #__5
+5,Non-Priority,48.8000,36.6000,
+7,Priority,84.8528,63.6396,
+9,Priority,77.3103,57.9827,1
+11,Non-Priority,79.9502,59.9627,
+15,Non-Priority,46.6666,34.5000,
+17,Priority,52.5680,39.4260,
+19,Priority,81.0816,60.8112,2
+21,Non-Priority,69.8358,52.3769,
