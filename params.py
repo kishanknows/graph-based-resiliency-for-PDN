@@ -43,3 +43,26 @@ def agg_centrality(possible_networks):
         deg = np.average([x for x in nx.degree_centrality(G).values()])
         deg_cent.append(deg)
     return deg_cent
+
+
+# Returns count of overlapping branches
+def overlapping_branches(possible_networks):
+    obs = []
+    for path in possible_networks:
+        edges = set()
+        cnt = 0
+        for edge in path:
+            if edge in edges:
+                cnt += 1
+            else:
+                edges.add(edge)
+        obs.append(cnt / len(path))
+    return obs
+
+
+# Average path length
+def avg_path_length(raw_combs):
+    apl = []
+    for path in raw_combs:
+        apl.append(np.average([len(p) for p in path]))
+    return apl
