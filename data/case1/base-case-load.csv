@@ -1,9 +1,0 @@
-﻿Bus No.,Type,Capacity_P(kW),Capacity_Q(kVAR),Microgrid No.
-5,Non-Priority,48.8,36.6,1
-7,Priority,84.8528,63.6396,1
-9,Priority,77.3103,57.9827,1
-11,Non-Priority,79.9502,59.9627,1
-15,Non-Priority,46.6666,34.5,2
-17,Priority,52.568,39.426,2
-19,Priority,81.0816,60.8112,2
-21,Non-Priority,69.8358,52.3769,2

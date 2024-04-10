@@ -1,8 +1,0 @@
-﻿Bus No.,Type,Nominal Capacity (kVA),Microgrid No.
-9,DER-I,125,1
-10,DER-II,125,1
-12,DER-III,0,1
-21,DER-I,115,2
-24,DER-II,125,2
-25,DER-III,125,2
-27,DER-IV,125,2
